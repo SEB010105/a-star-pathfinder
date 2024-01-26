@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10bdf1cd02c84771b16fd38e2b7f6a0c, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8536335276536928330, guid: e0fba1af5315912478b2005682da10f8, type: 3}
+  passCost: 100
